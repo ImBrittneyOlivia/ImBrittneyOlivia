@@ -1,6 +1,7 @@
 ### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
 
-![Brittney Olivia (1)](https://user-images.githubusercontent.com/43420527/89359974-ed5f7900-d67b-11ea-938f-ab59d425fcf7.jpg)
+![Brittney Olivia](https://user-images.githubusercontent.com/43420527/90343878-62f70d80-dfc9-11ea-8112-9c46f9729e37.jpg)
+
 
 ## Get to know me: 
 - 💁‍♀️ I'm an independent women in the tech industry, developer and mentor. #womenintech
