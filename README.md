@@ -1,8 +1,3 @@
-### Hi there, I'm Brittney - aka [Brittney.In.Beta](https://www.instagram.com/brittney.in.beta/) 👩🏽‍💻
-
-![Brittney Olivia](https://user-images.githubusercontent.com/43420527/90343878-62f70d80-dfc9-11ea-8112-9c46f9729e37.jpg)
-
-
 ## Get to know me: 
 - 💁‍♀️ I'm an independent women in the tech industry, developer and mentor. #womenintech
 - 💻 I have fullstack training but consider myself a front end developer with a passion for JavaScript and React. 
@@ -13,7 +8,6 @@
 
 ## Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/brittney-stuart/)
-- [Instagram](https://www.instagram.com/brittney.in.beta/)
 - Email: Brittneystuart2613@gmail.com
 
 ## Languages and Tools: 
