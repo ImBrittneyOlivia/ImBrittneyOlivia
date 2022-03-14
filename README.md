@@ -5,7 +5,7 @@
 - 🤍 Creating daily content for developers on Instagram (@brittney.in.beta)
 - ✅ Available for work and collaborations 👍
 - 🧠 I'm an advocate for mental health. 
-- 🍄 Currently working on my Project Management Certification. 
+- 🍄 Currently working on my Project Management Certification. Potential Completion date: April 2022
 - ⭐️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
 
 
