@@ -1,11 +1,13 @@
 ## Get to know me: 
-- 💁‍♀️ I'm a software engineer in the tech industry, mentor, Director of Education for a tech company and soon to be project management certified. #womenintech
+- 💁‍♀️ Hi, I'm Brittney. I'm a Software Engineer in the tech industry, Mentor, Director of Education for a tech company and soon to be Project Management certified. #womenintech
 - 💻 I have fullstack training but consider myself a front-end developer with a passion for JavaScript and React. 
 - 🌱 I'm continuously learning. If you're not learning you're not growing. 
-- 👯‍♀️ I'm looking to collaborate with other developers and content creators. 
+- 🤍 Creating daily content for developers on Instagram (@brittney.in.beta)
+- ✅ Available for work and collaborations 👍
 - 🧠 I'm an advocate for mental health. 
 - 🍄 Currently working on my Project Management Certification. 
 - ⭐️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
+
 
 ## Connect with me: 
 - [LinkedIn](https://www.linkedin.com/in/brittney-stuart/)
