@@ -1,9 +1,10 @@
 ## Get to know me: 
-- 💁‍♀️ I'm an independent women in the tech industry, developer and mentor. #womenintech
-- 💻 I have fullstack training but consider myself a front end developer with a passion for JavaScript and React. 
+- 💁‍♀️ I'm a software engineer in the tech industry, mentor, Director of Education for a tech company and soon to be project management certified. #womenintech
+- 💻 I have fullstack training but consider myself a front-end developer with a passion for JavaScript and React. 
 - 🌱 I'm continuously learning. If you're not learning you're not growing. 
 - 👯‍♀️ I'm looking to collaborate with other developers and content creators. 
 - 🧠 I'm an advocate for mental health. 
+- 🍄 Currently working on my Project Management Certification. 
 - ⭐️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
 
 ## Connect with me: 
