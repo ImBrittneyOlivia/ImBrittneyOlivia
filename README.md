@@ -1,12 +1,12 @@
 <h3 align="left">Get to know me:</h3>
-- 💁‍♀️ Hi, I'm Brittney. I'm a Software Engineer, Director of Education for a tech company, PSM I and Project Management certified.
-- 💻 I have fullstack training but consider myself a frontend developer with a passion for JavaScript and React. 
-- 🌱 I'm continuously learning. If you're not learning you're not growing. 
-- 🤍 Creating daily content for developers on Instagram (@brittney.in.beta)
-- ✅ Available for work and collaborations 👍
-- 🧠 I'm an advocate for mental health. 
-- 🍄 Currently freelancing while applying for Project management opportunities
-- ⭐️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)
+- 💁‍♀️ Hi, I'm Brittney. I'm a Software Engineer, Director of Education for a tech company, PSM I and Project Management certified.</br>
+- 💻 I have fullstack training but consider myself a frontend developer with a passion for JavaScript and React. </br>
+- 🌱 I'm continuously learning. If you're not learning you're not growing. </br>
+- 🤍 Creating daily content for developers on Instagram (@brittney.in.beta)</br>
+- ✅ Available for work and collaborations 👍</br>
+- 🧠 I'm an advocate for mental health. </br>
+- 🍄 Currently freelancing while applying for Project management opportunities</br>
+- ⭐️ Fun fact: I produce photography for [UnSplash](https://unsplash.com/@brittneyinbeta)</br>
 
 
 <h3 align="left">Connect with me:</h3>
